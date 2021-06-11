@@ -4,7 +4,7 @@ This my personal portfolio that I created using only HTML and CSS. I added in th
 
 [Click here to see my personal portfolio!]( https://muiasar-al-ani.github.io/personal-portfolio/ )
 
-## Technologies:
+## Technologies
 
 * HTML to write the structure of the website.
 * CSS to style the website.
