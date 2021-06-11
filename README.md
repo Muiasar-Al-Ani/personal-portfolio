@@ -15,5 +15,6 @@ This my personal portfolio that I created using only HTML and CSS. I added in th
 * [Notepad ++:]( https://notepad-plus-plus.org/downloads/ )  this a very light weight code editor that packs a big punch.
 
 ## Validators 
-[HTML Validator]( https://validator.w3.org/ ) : I validated my html file with this w3 validator  which I highly recommend. 
-[CSS Validator]( https://jigsaw.w3.org/css-validator/ ) : And I highly recommend their CSS validator.
+
+* [HTML Validator]( https://validator.w3.org/ ) : I validated my html file with this w3 validator  which I highly recommend. 
+* [CSS Validator]( https://jigsaw.w3.org/css-validator/ ) : And I highly recommend their CSS validator.
