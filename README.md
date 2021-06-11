@@ -19,4 +19,7 @@ This my personal portfolio that I created using only HTML and CSS. I added in th
 * [HTML Validator]( https://validator.w3.org/ ) : I validated my html file with this w3 validator  which I highly recommend. 
 * [CSS Validator]( https://jigsaw.w3.org/css-validator/ ) : And I highly recommend their CSS validator.
 
-![ScreenShot](https://github.com/Muiasar-Al-Ani/personal-portfolio/blob/main/screen-shots/Muiasar-Al-Ani.png "Here is a screen shot of my deployed personal portfolio!")
+
+### Here is a screen shot of my deployed personal portfolio!
+
+![ScreenShot](https://github.com/Muiasar-Al-Ani/personal-portfolio/blob/main/screen-shots/Muiasar-Al-Ani.png )
