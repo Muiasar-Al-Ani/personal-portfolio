@@ -60,7 +60,7 @@ ul {
 }
 
 .intro-container {
-  background-image: url(/images/background.jpg);
+  background-image: url(../images/background.jpg);
   background-size: cover;
   display: flex;
   justify-content: space-around;
@@ -104,7 +104,7 @@ p {
 /* Work Section Styling */
 
 .main-card {
-  background-image: url(/images/project-one.jpg);
+  background-image: url(../images/project-one.jpg);
   background-size: cover;
   width: 95%;
   height: 800px;
@@ -118,7 +118,7 @@ p {
 }
 
 .one {
-  background-image: url(/images/project-two.jpg);
+  background-image: url(../images/project-two.jpg);
   background-size: cover;
   width: 45%;
   height: 200px;
@@ -127,7 +127,7 @@ p {
 }
 
 .two {
-  background-image: url(/images/project.three.jpg);
+  background-image: url(../images/project.three.jpg);
   background-size: cover;
   width: 45%;
   height: 200px;
@@ -136,7 +136,7 @@ p {
 }
 
 .three {
-  background-image: url(/images/project-four.jpg);
+  background-image: url(../images/project-four.jpg);
   background-size: cover;
   width: 45%;
   height: 200px;
@@ -145,7 +145,7 @@ p {
 }
 
 .four {
-  background-image: url(/images/project-five.jpg);
+  background-image: url(../images/project-five.jpg);
   background-size: cover;
   width: 45%;
   height: 200px;
