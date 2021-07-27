@@ -38,6 +38,9 @@ li {
   font-weight: 700;
   text-decoration: none;
 }
+a:hover{
+  background-color: rgb(43, 40, 40);
+}
 
 ul {
   display: flex;
